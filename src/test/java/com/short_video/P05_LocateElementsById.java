@@ -1,4 +1,4 @@
-package com.shortVideo;
+package com.short_video;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
